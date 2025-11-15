@@ -1,6 +1,6 @@
 {
   "name": "komment",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A collaborative commenting tool for web applications - perfect for design reviews and feedback",
   "type": "module",
   "main": "./dist/komment.umd.cjs",
