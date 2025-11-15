@@ -352,8 +352,8 @@ MIT © Ryan Weber Ltd
 
 ## Support 💬
 
-- 🐛 [Report Issues](https://github.com/yourusername/komment/issues)
-- 💡 [Request Features](https://github.com/yourusername/komment/issues)
+- 🐛 [Report Issues](https://github.com/ryanw3b3r/komment/issues)
+- 💡 [Request Features](https://github.com/ryanw3b3r/komment/issues)
 
 ---
 
