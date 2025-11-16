@@ -1,0 +1,32 @@
+# Source files (only ship dist)
+src/demo/
+
+# Development files
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Testing
+coverage/
+*.test.ts
+*.spec.ts
+
+# Configuration files
+.eslintrc*
+.prettierrc*
+vite.config.ts
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+
+# Demo files
+index.html
+public/
+
+# Git
+.git/
+.gitignore
+
+# CI/CD
+.github/
